@@ -3,6 +3,8 @@
 A **responsive, email-client-safe HTML email template** designed for an **Architecture / Design Studio** brand.  
 Built using **table-based layouts** and **inline-friendly CSS** to ensure compatibility across major email clients.
 
+“Live Preview: https://rownak08.github.io/kasha-architect-email-template/"
+
 ---
 
 ## 📌 Features
